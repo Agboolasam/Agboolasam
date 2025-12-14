@@ -6,7 +6,7 @@ _Coffee and God keep me moving._ ☕
 
 ## 💻 About Me
 I’m a **Full-Stack Developer** passionate about building scalable applications and embracing modern development workflows.  
-I work with **React**, **Node.js**, and **Docker**, and I’m deeply enthusiastic about **DevOps**—especially how it unites development and operations.
+I work with **React**, **NextJS**, **Node.js**, and **Docker**, and I’m deeply enthusiastic about **DevOps**—especially how it unites development and operations.
 
 ---
 
@@ -17,10 +17,11 @@ Check out my online portfolio to explore my work and journey:
 ---
 
 ## ⚡ Tech Stack
-- **Frontend:** React, Tailwind CSS  
+- **Frontend:** React, NextJS, Tailwind CSS, Framer Motion 
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB, PostgreSQL  
-- **DevOps & Tools:** Docker, GitHub Actions, CI/CD, Terraform (Learning)  
+- **Database:** MongoDB, PostgreSQL, Supabase  
+- **DevOps & Tools:** Docker, GitHub Actions, CI/CD, Terraform & Kubernetes (Learning)
+-  **Languages:** Javascript, Typescript, Bash, Typescript 
 
 ---
 
